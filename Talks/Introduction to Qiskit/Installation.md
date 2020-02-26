@@ -16,4 +16,3 @@ Each participant should bring a laptop with the following installed:
 ### Optional
 
 - It is often easiest to write programs using an IDE (integrated development environment). PyCharm is an example of one that's good for Python. Installation instructions at https://www.jetbrains.com/pycharm/download
-- For those who want to make interactive applications including games, install Pygame. Installation instructions at https://www.pygame.org/wiki/GettingStarted
