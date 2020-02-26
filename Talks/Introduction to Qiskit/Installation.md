@@ -1,7 +1,5 @@
 # Preparation for Qiskit
 
-## Things to install
-
 Each participant should bring a laptop with the following installed:
 
 ### Required
