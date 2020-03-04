@@ -1,3 +1,3 @@
 # Introduction to Qiskit
-In this talk, I will cover the basics of Qiskit and some basic programs. </br>
-[Slide](https://speakerdeck.com/shadab96/introduction-to-qiskit) Link
+This talk covers intro to Qiskit, it's elements and how to program on quantum simulators and actual quantum computers. </br>
+[Presentation Link](https://speakerdeck.com/shadab96/introduction-to-qiskit)
